@@ -32,8 +32,7 @@ Hello visitors, I have been interested in effcient deep neural networks design s
 ### 2017
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
-| [Information-theoretic analysis of generalization
-capability of learning algorithms](https://papers.nips.cc/paper/2017/file/ad71c82b22f4f65b9398f76d8be4c615-Paper.pdf) | NeurIPS | - |
+| [Information-theoretic analysis of generalization capability of learning algorithms](https://papers.nips.cc/paper/2017/file/ad71c82b22f4f65b9398f76d8be4c615-Paper.pdf) | NeurIPS | - |
 
 ### 2016
 |   Title  | Issue | Release |
