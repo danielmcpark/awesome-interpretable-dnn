@@ -14,7 +14,7 @@ Hello visitors, I have been interested in effcient deep neural networks design s
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
-| [https://arxiv.org/pdf/1901.09491.pdf](https://arxiv.org/pdf/1901.09491.pdf) | Preprint | - |
+| [Stiffness: A New Perspective on Generalization in Neural Networks](https://arxiv.org/pdf/1901.09491.pdf) | Preprint | - |
 
 ### 2019
 |   Title  | Issue | Release |
