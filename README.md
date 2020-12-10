@@ -1,6 +1,6 @@
 # awesome-interpretable-dnn [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hello visitors, I have been interested in effcient deep neural networks design such as pruning, autoML, quantization, and also focused on the knowledge distillation for successful network generalization. This page organizes several works for the interpretable or explainable deep neural networks to be applicable on my interests.
+Hello visitors, I have been interested in an efficient deep neural network design such as pruning, AutoML, quantization, and the knowledge distillation for successful network generalization. This page organizes several works for the interpretable or explainable deep neural networks to apply to my interests.
 
 ## History
 
