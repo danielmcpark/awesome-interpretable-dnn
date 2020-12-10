@@ -28,6 +28,7 @@ Hello visitors, I have been interested in effcient deep neural networks design s
 | :--------| :---: | :-----: |
 | [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1805.04770) | ICML | - |
 | [Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach](https://openreview.net/pdf?id=BkUHlMZ0b) | ICLR | - |
+| [Interpretable Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf) | CVPR | [GitHub](https://github.com/zqs1022/interpretableCNN) |
 
 ### 2017
 |   Title  | Issue | Release |
