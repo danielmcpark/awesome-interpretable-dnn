@@ -14,6 +14,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Compositional Explanations of Neurons](https://papers.nips.cc/paper/2020/file/c74956ffb38ba48ed6ce977af6727275-Paper.pdf) | NeurIPS | - |
 | [Stiffness: A New Perspective on Generalization in Neural Networks](https://arxiv.org/pdf/1901.09491.pdf) | Preprint | - |
 
 ### 2019
